@@ -1,5 +1,5 @@
-день[д](README.md)
+день [жмакай](README.md)
 
-вечер[в](README2.md)
+вечер [жмакай](README2.md)
 
-ночь[н](README3.md)
+ночь [жмакай](README3.md)
