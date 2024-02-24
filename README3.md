@@ -12,4 +12,4 @@
 
 ![](img/house_03.png)
 
-![вернуться](README.md)
+- [ ] [вернуться](README.md)
