@@ -1,3 +1,5 @@
-день[](README.md)
-вечер[](README2.md)
-ночь[](README3.md)
+день[д](README.md)
+
+вечер[в](README2.md)
+
+ночь[н](README3.md)
